@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nimayyazdani
-- 👀 I’m interested in the advancement of artificial intelligence, neural networks,  environmental research, and predictive algorithms. 
-- 🌱 I’m currently learning about data structures, and prediction algorithms.
+- 👀 I’m interested in contributing to a meaningful mission that helps advance humanity!
 - 📫 Email: Niyazdan@ucsd.edu
 
 <!---
