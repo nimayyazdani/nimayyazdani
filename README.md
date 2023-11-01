@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nimayyazdani
-- 👀 I’m interested in contributing to a meaningful mission that helps advance humanity!
-- 📫 Email: Niyazdan@ucsd.edu
+- Hi, I’m Nima Yazdani, a CS PHD student at the University of Southern Calofornia.
+- I’m looking to contribute to a meaningful mission that helps push humanity forward!
+- Email: Nimayazd@usc.edu
 
 <!---
 nimayyazdani/nimayyazdani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
